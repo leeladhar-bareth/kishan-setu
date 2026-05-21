@@ -55,9 +55,7 @@ kisan-setu/
 └── vite.config.ts
 ```
 
-## 📸 Screenshots
 
-*(Add screenshots of your app here once deployed)*
 
 ## 🤝 Contributing
 
